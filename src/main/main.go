@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"hello"
+	"github.com/iskywalker168/golang/src/hello"
 	"flag"
 	"os"
 )
